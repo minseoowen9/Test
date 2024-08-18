@@ -4,7 +4,7 @@
   "description": "",
   "main": "hellowWorld.js",
   "scripts": {
-    "test": "node hellowWorld.js"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
